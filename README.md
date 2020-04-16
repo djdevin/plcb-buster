@@ -6,7 +6,7 @@ Online sales are open, but the PLCB has severely restricted sales to only a sele
 
 There are really easy solutions to this: https://www.fox43.com/article/news/local/state-lawmakers-look-to-fix-failed-liquor-control-board-system-allow-curbside-pickup/521-386a4fd2-38e9-44de-9c9b-bd53eee8564e
 
-I recommend not purchasing from the PLCB stores and instead buying responsibily from local distilleries, breweries, and wineries, or ordering online from out of state.
+I recommend not purchasing from the PLCB stores and instead buying safely from local distilleries, breweries, and wineries, or ordering online from out of state.
 
 But if the state store is your only option, you should not be forced to endanger the welfare of others because the PLCB cannot manage a business. The PLCB needs to innovate as other businesses are doing during this trying time.
 
