@@ -18,6 +18,7 @@ while (true) {
   }
   else {
     $driver->manage()->deleteAllCookies();
+    // Random sleep, just in case there is a rate limit.
     sleep(random_int(1, 2));
   }
 }
