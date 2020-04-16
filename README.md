@@ -16,6 +16,8 @@ So if you must...
 2. Visit https://www.finewineandgoodspirits.com/webapp/wcs/stores/servlet/SpecialAccessLandingPageView?langId=-1&storeId=10051&catalogId=10051
 3. Didn't work? Close private brower window and start over.
 
+There's no exploits happening, just clearing your cookies and asking the PLCB for a new roll of the dice.
+
 Don't want to wait?
 
 1. Ensure you have:
