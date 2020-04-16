@@ -1,5 +1,7 @@
 The Pennsylvania Liquor Control Board has made the COVID-19 pandemic even more dangerous by forcing residents to drive across the border to purchase alcohol: https://reason.com/2020/04/07/pennsylvania-has-made-it-both-difficult-and-dangerous-to-buy-liquor/
 
+The situation is so bad that neighboring states are banning PA residents: https://www.cnn.com/2020/04/15/us/pennsylvania-liquor-sales-ohio-west-virginia-trnd/index.html
+
 Restaurants are in trouble because of the PLCB's archaic prohibition-era laws: https://www.inquirer.com/business/wine-importers-lawsuit-plcb-liquor-control-direct-shipping-20200416.html
 
 Online sales are open, but the PLCB has severely restricted sales to only a select few that are randomly selected: https://www.post-gazette.com/life/drinks/2020/04/15/PA-PLCB-special-order-sales-online-wine-spirits/stories/202004150059
