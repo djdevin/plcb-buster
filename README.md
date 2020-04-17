@@ -23,6 +23,7 @@ There's no exploits happening, just clearing your cookies and asking the PLCB fo
 
 <details>
   <summary>The manual way</summary>
+  
 1. Right click this link and click "Open in private": https://www.finewineandgoodspirits.com/webapp/wcs/stores/servlet/SpecialAccessLandingPageView?langId=-1&storeId=10051&catalogId=10051
 2. Didn't work? Close private brower window and start over.
 
@@ -33,6 +34,7 @@ Don't want to wait?
 
 <details>
   <summary>The automatic way</summary>
+  
 1. Ensure you have:
  - [PHP](https://www.php.net)
  - [Composer](https://getcomposer.org)
