@@ -19,10 +19,6 @@ But if the state store is your only option, you should not be forced to endanger
 
 So if you must buy from the PLCB online store...there's no exploits happening, just clearing your cookies and asking the PLCB for a new roll of the dice.
 
-[Manual](#manual)
-
-[Automatic](#automatic)
-
 Manual
 ===
 
