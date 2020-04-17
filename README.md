@@ -1,6 +1,6 @@
 
 <details>
-  <summary>Click to read my rant about the PLCB</summary>
+  <summary>Read about the Pennsylvania Liquor Control Board</summary>
 
 The Pennsylvania Liquor Control Board has made the COVID-19 pandemic even more dangerous by forcing residents to drive across the border to purchase alcohol: https://reason.com/2020/04/07/pennsylvania-has-made-it-both-difficult-and-dangerous-to-buy-liquor/
 
@@ -39,6 +39,10 @@ Automatic
 3. Start chromedriver with `chromedriver --port=4444`
 4. Run `php plcb.php`
 5. Wait until "Shop now" button appears
+
+I've never seen this page before, this is what it looks like:
+
+![picture of PLCB lottery win](https://i.imgur.com/z5jbUwt.png)
 
 "as inconvenient and expensive as possible"
 
